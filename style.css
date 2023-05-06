@@ -167,10 +167,6 @@ ul.social li a {
             color:#dd5138;
         }
 
- /* === Custom Colors of original logo=== 
-* Remove comments if you want to use it
-*/
-/*
         .fa-linkedin:hover{
             color:#4099ff;
         }
@@ -179,7 +175,11 @@ ul.social li a {
         }
         .fa-facebook:hover{
             color:#3b5998;
-        }*/
+        }
+        .fa-hackerrank:hover{
+            color:#2a2a2a;
+        } 
+	
 
 
 /* 
